@@ -1,1 +1,1 @@
-echo "commands">up_to_date
+echo 'git commannd line used' > up_to_date
